@@ -5,6 +5,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Start JSP
+여기는 index
 </body>
 </html>
